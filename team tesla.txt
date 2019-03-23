@@ -1,0 +1,307 @@
+                                                    FIRST PAGE:
+
+
+
+<html>
+<title>ENGAGING THE OLD AGED PEOPLE</title>
+<body>
+<head>
+<style>
+
+body {
+  background-color: skyblue;
+  background-image: url("second.JPG");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  }
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<body>
+<img src="images/front.jpg" border="2" width="300px"  align="left"/>
+
+
+<center>ENGAGING THE OLD AGED PEOPLE</br></br><br>
+NAME:<input type="text" placeholder="please enter the name" name="NAME" required></br></br>
+<li class="rq">*Required Field </li></br></br>
+<a href="creating profile.html"><button>submit</button></a></br></br>
+</form>
+
+
+</center>
+</body>
+</html> 
+                                           
+
+                                                   PAGE -2::
+
+<html>
+<title>CREATING PROFILE</title>
+<body>
+<img src="images/front.jpg" border="2" width="300px"  align="left"/>
+<center>CREATE YOUR PROFILE</br></br>
+<head>
+<style>
+
+body {
+  background-color: skyblue;
+  background-image: url("second.JPG");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  }
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<body>
+
+AGE GROUP:</br></br>
+
+<a href="profile.html"><button>50-60</button></a></br></br>
+<a href="profile1.html"><button>60-70</button></a></br></br>
+<a href="profile2.html"><button>over 70</button></a></br></br>
+</center>
+</body>
+</html>
+     
+                                                         PAGE-3::
+
+
+
+
+<html>
+<title>
+ADD PROFILE
+</title>
+<body>
+<head>
+<style>
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<center>
+ADD PROFILE:</br></br></br>
+
+GENDER: <input type="radio" name="gender" value="male"> Male
+        <input type="radio" name="gender" value="female"> Female
+        <input type="radio" name="gender" value="other"> Other</br></br>
+BLOOD GROUP:<select name="blood group" size="1">
+            <option value="A+">A+</option>
+            <option value="A-">A-</option>
+            <option value="B+">B+</option>
+            <option value="B-">B-</option>
+            <option value="O+">O+</option>
+            <option value="O-">O-</option>
+            <option value="AB+">AB+</option>
+            <option value="AB-">AB-</option></select></br></br>
+OCCUPATION:<select name="occupation" size="1">
+           <option value="EX-BUSINESS PERSON">EX-BUSINESS PERSON</option>
+           <option value="EX-doctor">EX-doctor</option>
+           <option value="EX-engineer">EX-engineer</option>
+           <option value="other">other</option></select></br></br>
+SELECT JOB:<input type="radio" name="select job" value="Tutor">tutor
+           <input type="radio" name="select job" value="coach">coach
+           <input type="radio" name="select job" value="Book keeper">book keeper</br></br>
+<a href="next.html"><button>submit</button></a></br></br>           
+<a href="first.html"><button>Home</button></a></br></br>
+</center>
+</body>
+</html>
+
+
+                                                         PAGE-4::
+
+
+
+
+<html>
+<title>
+ADD PROFILE
+</title>
+<body>
+<head>
+<style>
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<center>
+ADD PROFILE:</br></br></br>
+
+GENDER: <input type="radio" name="gender" value="male"> Male
+        <input type="radio" name="gender" value="female"> Female
+        <input type="radio" name="gender" value="other"> Other</br></br>
+BLOOD GROUP:<select name="blood group" size="1">
+            <option value="A+">A+</option>
+            <option value="A-">A-</option>
+            <option value="B+">B+</option>
+            <option value="B-">B-</option>
+            <option value="O+">O+</option>
+            <option value="O-">O-</option>
+            <option value="AB+">AB+</option>
+            <option value="AB-">AB-</option></select></br></br>
+OCCUPATION:<select name="occupation" size="1">
+           <option value="EX-BUSINESS PERSON">EX-BUSINESS PERSON</option>
+           <option value="EX-doctor">EX-doctor</option>
+           <option value="EX-engineer">EX-engineer</option>
+           <option value="other">other</option></select></br></br>
+SELECT JOB:<input type="radio" name="select job" value="Virtual assistant">virtual assistant
+           <input type="radio" name="select job" value="Pet sitter">pet sitter
+           <input type="radio" name="select job" value="Gardener">gardener
+           <input type="radio" name="select job" value="Baby sitter">Baby sitter</br></br>
+<a href="next.html"><button>submit</button></a></br></br>
+<a href="first.html"><button>Home</button></a></br></br>
+</center>
+</body>
+</html>
+                                                       
+                                 
+                                                           PAGE-5::
+
+
+
+
+
+<html>
+<title>
+ADD PROFILE
+</title>
+<body>
+<head>
+<style>
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<center>
+ADD PROFILE:</br></br></br>
+
+GENDER: <input type="radio" name="gender" value="male"> Male
+        <input type="radio" name="gender" value="female"> Female
+        <input type="radio" name="gender" value="other"> Other</br></br>
+BLOOD GROUP:<select name="blood group" size="1">
+            <option value="A+">A+</option>
+            <option value="A-">A-</option>
+            <option value="B+">B+</option>
+            <option value="B-">B-</option>
+            <option value="O+">O+</option>
+            <option value="O-">O-</option>
+            <option value="AB+">AB+</option>
+            <option value="AB-">AB-</option></select></br></br>
+OCCUPATION:<select name="occupation" size="1">
+           <option value="EX-BUSINESS PERSON">EX-BUSINESS PERSON</option>
+           <option value="EX-doctor">EX-doctor</option>
+           <option value="EX-engineer">EX-engineer</option>
+           <option value="other">other</option></select></br></br>
+SELECT JOB:<input type="radio" name="select job" value="Consultant">consultant
+           <input type="radio" name="select job" value="Tax preparer">Tax prepare
+           <input type="radio" name="select job" value="Customer service">customer service
+           <input type="radio" name="select job" value="Counsellor">Counsellor</br></br>
+<a href="next.html"><button>submit</button></a></br></br>
+<a href="first.html"><button>Home</button></a></br></br>
+</center>
+</body>
+</html>
+                              
+
+                                                       PAGE-6::
+
+
+
+
+
+<html>
+<title>INFORMATION STATUS</title>
+<body>
+<head>
+<style>
+body {
+  background-color: skyblue;
+  }
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<center>
+SAVED  SUCESSFULLY</br></br></br>
+FOR ANY QUIRIES PLEASE CONTACT</br></br>
+Ph.no:9473975990</br>
+Address: SILVER JUBLEE TOWER , VIT UNIVERSITY
+</center>
+</body>
+</html>
+
+
+
+                          
+
+
+
+
+
